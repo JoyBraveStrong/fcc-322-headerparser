@@ -1,0 +1,16 @@
+{
+  "name": "myheaderparser",
+  "version": "1.0.0",
+  "description": "FCC request header parser microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.9.4",
+    "npm": "3.10.10"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
